@@ -3,7 +3,7 @@
 # Command List
 **GPS 1.1** - Version Control and Git
 
-cd - to change to the repo 
+__cd__ - to change to the repo 
 
 ls - Checks your repo for the files inside 
 
