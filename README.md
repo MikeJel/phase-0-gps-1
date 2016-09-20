@@ -5,7 +5,7 @@
 
 __cd__ - to change to the repo 
 
-ls - Checks your repo for the files inside 
+_ls_ - Checks your repo for the files inside 
 
 git clone - copied the repo i created from Github to my comp. 
 
