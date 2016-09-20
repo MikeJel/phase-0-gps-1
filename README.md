@@ -1,5 +1,7 @@
-# phase-0-gps-1
-GPS 1.1 - Version Control and Git
+## phase-0-gps-1
+
+# Command List
+**GPS 1.1** - Version Control and Git
 
 cd - to change to the repo 
 
