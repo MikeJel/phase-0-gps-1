@@ -25,4 +25,8 @@ git branch - checks to make sure which branch you are on
 
 subl. - opens your files in sublime editor 
 
-history - shows history of my terminal commands 
+history - shows history of my terminal commands
+
+This will [link](http://daringfireball.net/projects/markdown/syntax) to a website 
+
+![alt tag](DesktopView.png)
